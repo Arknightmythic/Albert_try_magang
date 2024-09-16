@@ -10,6 +10,6 @@
 8. do php artisan storage:link if image not show when upload in category, holiday_packages
 
 ## demo video
-link:
+link: https://youtu.be/QSckQK_u8Vg
 
  
